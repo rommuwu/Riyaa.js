@@ -20,7 +20,7 @@ Certain features are available exclusively through Lofi Riya Premium. Premium be
 **__3.2 Payments__**
 Premium subscriptions are processed through authorized third-party payment providers. Prices, plans, and available features may change at any time without prior notice.
 
-**__3.3 Refund Policy__
+**__3.3 Refund Policy__**
 If you request a refund before your subscription expires, the refund amount will be calculated based on the remaining unused duration of your subscription. Processing fees or payment gateway charges (if any) may also be deducted where applicable.
 
 __3.4 Non-Refundable Policy & Abuse Termination__
