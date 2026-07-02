@@ -1,155 +1,18 @@
-Last Updated: June 2026
+## Privacy Policy
+**__Effective Date: July 2, 2026__**
 
-This Privacy Policy explains how Lofi Riya ("Bot", "Service", "we", "our", or "us") collects, stores, uses, and protects information necessary to operate the service.
+We are committed to respecting your privacy. This policy explains our approach to data handling, which is based on minimal collection to ensure a safe and seamless music experience.
 
-By using Lofi Riya, you agree to the practices described in this Privacy Policy.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. INFORMATION WE COLLECT
-
-To provide functionality, Lofi Riya may process and store:
-
-• Discord User IDs
-• Discord Server IDs
-• Channel IDs
-• Role IDs
-• Voice Channel IDs
-• Message IDs related to bot functionality
-• Command Configuration Data
-• Playlist Metadata
-• User Preferences
-• Server Preferences
-• Statistics Data
-• Temporary Session Data
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-2. INFORMATION WE DO NOT COLLECT
-
-Lofi Riya does NOT collect:
-
-• Discord Passwords
-• Email Addresses
-• Payment Card Information
-• Banking Information
-• Personal Government Documents
-• Private Messages unrelated to bot functionality
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-3. HOW INFORMATION IS USED
-
-Collected information is used only to:
-
-• Execute commands.
-• Provide bot features.
-• Store server configurations.
-• Store user preferences.
-• Maintain playlists and queues.
-• Generate statistics.
-• Improve performance.
-• Prevent abuse and malicious activity.
-• Maintain service stability.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-4. DATA STORAGE
-
-Data may be stored using secure database systems including:
-
-• MongoDB
-• Redis
-• Secure Cloud Infrastructure
-• Encrypted Storage Systems
-
-Reasonable measures are taken to protect stored information.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-5. DATA SHARING
-
-We do not sell, rent, trade, or distribute personal information.
-
-Information may only be disclosed when:
-
-• Required by law.
-• Required by legal authorities.
-• Necessary to protect service integrity.
-• Necessary to investigate abuse.
-• Required to comply with Discord policies.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-6. DATA RETENTION
-
-Information is retained only for as long as necessary to provide services.
-
-Data may be removed when:
-
-• The bot leaves a server.
-• A server removes the bot.
-• The information is no longer required.
-• A valid deletion request is received.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-7. SECURITY
-
-We implement reasonable safeguards to protect stored information.
-
-However, no online service can guarantee absolute security.
-
-Users acknowledge and accept this inherent risk.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-8. USER RIGHTS
-
-Users may request:
-
-• Information about stored data.
-• Correction of stored information.
-• Deletion of eligible stored information.
-
-Requests can be submitted through the official support server.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-9. THIRD-PARTY SERVICES
-
-Lofi Riya may rely on third-party services and APIs.
-
-These services maintain independent privacy practices.
-
-We are not responsible for third-party privacy policies, security practices, or service availability.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-10. CHILDREN'S PRIVACY
-
-Lofi Riya is not intended for individuals who do not meet Discord's minimum age requirements.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-11. POLICY CHANGES
-
-We may update this Privacy Policy periodically.
-
-Continued use of Lofi Riya following updates constitutes acceptance of the revised Privacy Policy.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-12. CONTACT
-
-Bot Name: Lofi Riya
-
-Developer: Romeo
-
-Support Email: lofiriyaa@gmail.com
-
-For privacy-related inquiries, contact us through the official Email.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-By using Lofi Riya, you acknowledge that you have read and understood this Privacy Policy.
+1. __Commitment to User Privacy__
+We do not collect, store, or process any Personally Identifiable Information (PII) of Discord users. This means we do not save your personal Discord User IDs, usernames, email addresses, IP addresses, or the content of your text messages. Your privacy remains completely protected while you enjoy music.
+2. __Minimal Data Storage for Functionality__
+To ensure that the Bot's features, music configurations, and premium perks work correctly and persist across sessions, we store only the essential non-personal configuration data. We store your unique Server ID to identify your server and save its specific settings, such as volume preferences, default filters, and command configurations. We also store specific Channel IDs and Role IDs to ensure that music playback restrictions, DJ roles, and dedicated music channels function reliably. This configuration data is strictly limited to what is necessary for the Bot to operate.
+3. __Data Processing and Content__
+When you execute a music or utility command, the Bot temporarily processes the real-time interaction data to fulfill the request, such as fetching and playing the requested audio track. This data is processed live and is never logged, stored long-term, or saved to our database. Once the song finishes or the Bot leaves the voice channel, the session data is immediately discarded.
+4. __No Data Sharing or Selling__
+Since we collect no PII, we have no user data to sell, trade, or share with any third parties, advertisers, or analytics services. Your server configuration data is used solely to run the Bot.
+5. __Data Deletion__
+Because we only store non-personal configuration data tied to a server, all associated data, including Server ID, Channel IDs, and Role IDs, is automatically and permanently deleted from our database the moment Lofi Riya is removed or kicked from your Discord server.
+__6. Contact Us__
+If you have any questions or concerns regarding this Privacy Policy or the Terms of Service, please contact us at Email Or directly through the official Lofi Riya Support Server.
+__Contact Email: lofiriyaa@gmail.com__
