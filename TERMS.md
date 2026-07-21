@@ -4,8 +4,10 @@
 By inviting Lofi Riyato your Discord server or by using any of its features, commands, website, dashboard, premium services, or related services (collectively referred to as the "Service"), you agree to be legally bound by these Terms of Service ("Tos"). If you do not agree with these Terms, you must immediately stop using Lofi Riya and remove it from your server.
 
 1. __Acceptance of Terms__
+
 **__1.1 Eligibility__**
 You confirm that you are at least 13 years of age (or the minimum age required in your country) and comply with Discord's Terms of Service and Community Guidelines while using Lofi Riya.
+
 **__1.2 Service Description__**
 Lofi Riya is an advanced Discord music and utility bot that provides high-quality music playback, server utilities, premium features, integrations, and related services designed to enhance the Discord experience.
 
