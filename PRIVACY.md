@@ -1,18 +1,93 @@
 ## Privacy Policy
 **__Effective Date: July 2, 2026__**
 
-We are committed to respecting your privacy. This policy explains our approach to data handling, which is based on minimal collection to ensure a safe and seamless music experience.
+Lofi Riya (“the Bot”, “we”, “our”, or “us”) respects your privacy and is committed to handling Discord-related data responsibly. This Privacy Policy explains what information the Bot may access, process, and store when you use Lofi Riya and its features.
 
-1. __Commitment to User Privacy__
-We do not collect, store, or process any Personally Identifiable Information (PII) of Discord users. This means we do not save your personal Discord User IDs, usernames, email addresses, IP addresses, or the content of your text messages. Your privacy remains completely protected while you enjoy music.
-2. __Minimal Data Storage for Functionality__
-To ensure that the Bot's features, music configurations, and premium perks work correctly and persist across sessions, we store only the essential non-personal configuration data. We store your unique Server ID to identify your server and save its specific settings, such as volume preferences, default filters, and command configurations. We also store specific Channel IDs and Role IDs to ensure that music playback restrictions, DJ roles, and dedicated music channels function reliably. This configuration data is strictly limited to what is necessary for the Bot to operate.
-3. __Data Processing and Content__
-When you execute a music or utility command, the Bot temporarily processes the real-time interaction data to fulfill the request, such as fetching and playing the requested audio track. This data is processed live and is never logged, stored long-term, or saved to our database. Once the song finishes or the Bot leaves the voice channel, the session data is immediately discarded.
-4. __No Data Sharing or Selling__
-Since we collect no PII, we have no user data to sell, trade, or share with any third parties, advertisers, or analytics services. Your server configuration data is used solely to run the Bot.
-5. __Data Deletion__
-Because we only store non-personal configuration data tied to a server, all associated data, including Server ID, Channel IDs, and Role IDs, is automatically and permanently deleted from our database the moment Lofi Riya is removed or kicked from your Discord server.
-__6. Contact Us__
-If you have any questions or concerns regarding this Privacy Policy or the Terms of Service, please contact us at Email Or directly through the official Lofi Riya Support Server.
-__Contact Email: lofiriyaa@gmail.com__
+By adding Lofi Riya to a server or using its commands, you agree to the practices described in this policy.
+
+## __1. Information We Access and Process__
+
+Depending on the features used in a Discord server, Lofi Riya may access and process the following:
+
+- **Discord User Information:** User IDs, usernames, display names, avatars, and other member details required for commands and bot functionality.
+- **Server Information:** Server IDs, server names, channel IDs, and role IDs required for server-specific configuration and permissions.
+- **Message Content:** Messages that contain supported prefix commands, such as `.play`, `.lyrics`, `.queue`, and other available commands. The Bot reads only the command text and its arguments to identify and carry out the requested action.
+- **Member Information:** Guild member information required for features such as member statistics, member lookups, and user information commands.
+- **Presence Information:** Discord presence statuses (Online, Idle, Do Not Disturb, and Offline) when needed for member statistics or presence-related features.
+- **Music Session Information:** Requested track names, playback details, queue information, and voice-session data needed to provide music functionality.
+
+## __2. How We Use Information__
+
+The information Lofi Riya accesses is used only to provide, maintain, and improve its features, including:
+
+- Processing prefix-based music and utility commands.
+- Supporting Discord application (slash) commands and interactions.
+- Searching for requested tracks and managing music playback.
+- Managing queues, playback controls, lyrics, and other music features.
+- Retrieving guild member information for member-related commands.
+- Calculating member statistics and displaying presence information where supported.
+- Applying server-specific settings, permissions, and configurations.
+- Maintaining the reliability, security, and proper operation of the Bot.
+
+## __3. Message Content Processing__
+
+Lofi Riya supports traditional prefix-based commands alongside Discord application commands.
+
+When a user sends a supported prefix command, the Bot processes the relevant message content to identify the command, read its arguments, and determine the requested action. For example, when a user sends `.play Flower In A Hurricane`, the Bot processes the command and search query to start the requested music search and playback.
+
+Message content is processed only in connection with the Bot’s command functionality. Lofi Riya is **not** a general-purpose message monitoring or message archiving service.
+
+## __4. Server Members and Presence Information__
+
+Certain features require access to guild member information.
+
+- The **Server Members** functionality supports member statistics, member lookups, and retrieving relevant information about server members.
+- Where implemented, **Presence** information is used to display member activity statuses and to calculate Online, Idle, Do Not Disturb, and Offline statistics.
+
+This information is accessed only to provide the specific features requested within Discord servers.
+
+## __5. Data Storage and Retention__
+
+Lofi Riya stores only limited server configuration information when needed for its functionality. This may include:
+
+- **Server IDs** to identify individual Discord servers.
+- **Channel IDs** for dedicated music channels and channel restrictions.
+- **Role IDs** for DJ permissions and role-based access.
+- **Server-specific settings** such as music preferences and configuration options.
+
+Command messages and music session information are processed only to deliver the requested functionality. We do not maintain a permanent archive of users’ ordinary Discord conversations.
+
+How long configuration and operational data is kept depends on its purpose and the requirements of the Bot’s features.
+
+## __6. Third-Party Services__
+
+Lofi Riya may rely on external services and infrastructure for music search, audio playback, database storage, and hosting. Information necessary to fulfil a requested feature may be processed by these providers in accordance with their own privacy policies and terms.
+
+Lofi Riya does **not** sell users’ personal information and does **not** use it for advertising purposes.
+
+## __7. Data Security__
+
+We take reasonable measures to protect information handled by Lofi Riya against unauthorized access, disclosure, alteration, or misuse. However, no online service or method of data transmission can be guaranteed to be completely secure.
+
+## __8. Data Deletion and User Requests__
+
+Users and server administrators may contact us to ask what data is associated with their use of Lofi Riya, or to request deletion of that data where applicable.
+
+Server configuration information may be removed when it is no longer needed for the Bot’s operation, or when the Bot is removed from a server, subject to any applicable retention requirements.
+
+For data-related questions or deletion requests, please use the contact details below.
+
+## __9. Changes to This Privacy Policy__
+
+We may update this Privacy Policy when Lofi Riya introduces new features, changes its data-handling practices, or needs to clarify existing practices. Any updated version will be published at this same public location, with the effective date revised accordingly.
+
+## __10. Contact Information__
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, you can reach us through:
+
+- **Email:** lofiriyaa@gmail.com
+- **Support:** [Official Lofi Riya Discord Support Server](https://discord.gg/5gcFVbnxxF)
+
+---
+
+*Lofi Riya – Privacy Policy* *© 2026 Lofi Riya. All rights reserved.*
